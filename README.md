@@ -3,12 +3,3 @@
 
 <h3 align="left">Connect with me: ConwaySabini@gmail.com</h3>
 <h3 align="left">Portfolio: https://conwaysabini.github.io/portfolio/</h3>
-<p align="left">
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=conwaysabini&show_icons=true&locale=en&layout=compact" alt="conwaysabini" /></p>
-<br/>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=conwaysabini&show_icons=true&locale=en" alt="conwaysabini" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=conwaysabini&" alt="conwaysabini" /></p>
